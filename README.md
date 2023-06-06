@@ -21,10 +21,10 @@ fields_of_interests:
   ]
   
 currently_learning: 
-{
-  cloud: "AWS",
-  languages: "GoLang"
-}
+  {
+    cloud: "AWS",
+    languages: "GoLang"
+  }
 certifications: ["AWS Cloud Practitioner", "AWS Solutions Architect (Coming Soon)"]
 hobbies: ["Socializing", "Gym", "Gaming"]
 ```
