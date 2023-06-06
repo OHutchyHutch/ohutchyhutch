@@ -8,7 +8,7 @@
 name: Owen Hutchins
 located_in: Atlanta, Georgia
 current_job: Software Engineer @ Elsym
-education: Bachelor's in Computer Science,
+education: Bachelor's in Computer Science
 
 fields_of_interests:
   [
@@ -19,12 +19,13 @@ fields_of_interests:
     "Game Development",
     "Serverless"
   ]
-  
+
 currently_learning: 
   {
     cloud: "AWS",
     languages: "GoLang"
   }
+  
 certifications: ["AWS Cloud Practitioner", "AWS Solutions Architect (Coming Soon)"]
 hobbies: ["Socializing", "Gym", "Gaming"]
 ```
