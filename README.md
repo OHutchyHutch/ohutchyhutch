@@ -9,7 +9,7 @@ name: Owen Hutchins
 located_in: Atlanta, Georgia
 current_job: Software Engineer @ Elsym
 education: Bachelor's in Computer Science,
-  
+
 fields_of_interests:
   [
     "Web Development",
@@ -20,11 +20,14 @@ fields_of_interests:
     "Serverless"
   ]
   
-currently_learning: ["AWS", "GoLang"]
-hobbies: ["Socializing", "Gym", "Spending time with my dog", "Gaming"]
+currently_learning: 
+{
+  cloud: "AWS",
+  languages: "GoLang"
+}
+certifications: ["AWS Cloud Practitioner", "AWS Solutions Architect (Coming Soon)"]
+hobbies: ["Socializing", "Gym", "Gaming"]
 ```
-
-
 
 ![Snake animation](https://github.com/ohutchyhutch/ohutchyhutch/blob/output/github-contribution-grid-snake.svg)
 
