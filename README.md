@@ -34,24 +34,21 @@ fields_of_interests:
     "Bootstrap",
     "C",
     "C#",
+    "Flask",
     "GCP",
     "Git",
-    "Go",
+    "GoLang",
     "Java",
     "Javascript",
     "MySQL",
     "NextJS",
     "NodeJS",
-    "NoSQL",
+    "Non-relational Databases",
+    "Python",
     "React",
     "Tailwind",
     "Typescript"
  ]
-currently_learning: 
-  {
-    cloud: "AWS",
-    languages: "GoLang"
-  }
   
 certifications: ["AWS Cloud Practitioner", "AWS Solutions Architect (Coming Soon)"]
 hobbies: ["Socializing", "Gym", "Gaming"]
