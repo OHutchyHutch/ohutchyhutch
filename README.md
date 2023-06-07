@@ -27,7 +27,26 @@ fields_of_interests:
     "Game Development",
     "Serverless"
   ]
-
+  
+ what_i_know:
+ [
+    "AWS",
+    "Bootstrap",
+    "C",
+    "C#",
+    "GCP",
+    "Git",
+    "Go",
+    "Java",
+    "Javascript",
+    "MySQL",
+    "NextJS",
+    "NodeJS",
+    "NoSQL",
+    "React",
+    "Tailwind",
+    "Typescript"
+ ]
 currently_learning: 
   {
     cloud: "AWS",
@@ -37,24 +56,6 @@ currently_learning:
 certifications: ["AWS Cloud Practitioner", "AWS Solutions Architect (Coming Soon)"]
 hobbies: ["Socializing", "Gym", "Gaming"]
 ```
-
-### 🛠 &nbsp;Languages and Tools (Alphabetically Sorted) :
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS" alt="NextJS" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="64" height="64"/>&nbsp;
-</p>
 
 ![Snake animation](https://github.com/ohutchyhutch/ohutchyhutch/blob/output/github-contribution-grid-snake.svg)
 
