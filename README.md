@@ -17,12 +17,12 @@ education: Bachelor's in Computer Science
 
 fields_of_interests:
   [
+    "Serverless",
     "Web Development",
     "IoT",
     "Embedded Systems",
     "UI/UX",
     "Game Development",
-    "Serverless"
   ]
   
  what_i_know:
@@ -31,6 +31,7 @@ fields_of_interests:
     "Bootstrap",
     "C",
     "C#",
+    "DynamoDB",
     "Flask",
     "GCP",
     "Git",
