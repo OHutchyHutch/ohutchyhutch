@@ -48,7 +48,7 @@ fields_of_interests:
     "Typescript"
  ]
   
-certifications: ["AWS Cloud Practitioner", "AWS Solutions Architect (Coming Soon)"]
+certifications: ["AWS Cloud Practitioner", "AWS Solutions Architect", "AWS Developer (coming soon!)"]
 hobbies: ["Socializing", "Gym", "Gaming"]
 ```
 
