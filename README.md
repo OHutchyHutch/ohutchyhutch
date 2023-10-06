@@ -51,10 +51,6 @@ fields_of_interests:
 certifications: ["AWS Cloud Practitioner", "AWS Solutions Architect", "AWS Developer (coming soon!)"]
 hobbies: ["Socializing", "Gym", "Gaming"]
 ```
-
-![Snake animation](https://github.com/ohutchyhutch/ohutchyhutch/blob/output/github-contribution-grid-snake.svg)
-
-<h6 align="center">Check out this snake eating my commit history!<h6>
   
 
 <div align="center">
