@@ -12,7 +12,7 @@
 ```yaml
 name: Owen Hutchins
 located_in: Atlanta, Georgia
-current_job: Software Engineer @ Elsym
+current_job: Software Engineer @ Build Technology
 education: Bachelor's in Computer Science
 
 fields_of_interests:
@@ -39,6 +39,7 @@ fields_of_interests:
     "Java",
     "Javascript",
     "MySQL",
+    ".NET",
     "NextJS",
     "NodeJS",
     "Non-relational Databases",
