@@ -27,30 +27,30 @@ fields_of_interests:
   
  what_i_know:
  [
+    "Angular",
     "AWS",
-    "Bootstrap",
+    "Azure"
     "C",
-    "C#",
+    "C#/.NET",
     "DynamoDB",
     "Flask",
-    "GCP",
+    "Google Cloud Platform",
     "Git",
     "GoLang",
     "Java",
     "Javascript",
     "MySQL",
-    ".NET",
     "NextJS",
     "NodeJS",
     "Non-relational Databases",
+    "PostgreSQL"
     "Python",
     "React",
-    "Tailwind",
     "Typescript"
  ]
   
-certifications: ["AWS Cloud Practitioner", "AWS Solutions Architect", "AWS Developer (coming soon!)"]
-hobbies: ["Socializing", "Gym", "Gaming"]
+certifications: ["AWS Cloud Practitioner", "AWS Solutions Architect"]
+hobbies: ["Socializing", "Gym"]
 ```
   
 
