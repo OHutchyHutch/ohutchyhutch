@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/owenhutchins/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://www.instagram.com/ohutchyhutch/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
 </p>
 
 <h2>About Me</h2>
@@ -12,7 +11,7 @@
 ```yaml
 name: Owen Hutchins
 located_in: Atlanta, Georgia
-current_job: Software Engineer @ Build Technology
+current_job: Software Engineer @ Build Technology Group
 education: Bachelor's in Computer Science
 
 fields_of_interests:
@@ -29,28 +28,33 @@ fields_of_interests:
  [
     "Angular",
     "AWS",
-    "Azure"
+    "Azure",
+    "Bootstrap",
     "C",
     "C#/.NET",
-    "DynamoDB",
-    "Flask",
-    "Google Cloud Platform",
+    "Docker",
+    "Express",
     "Git",
     "GoLang",
+    "HTML/CSS",
     "Java",
     "Javascript",
+    "JIRA",
+    "MongoDB",
     "MySQL",
-    "NextJS",
-    "NodeJS",
-    "Non-relational Databases",
-    "PostgreSQL"
+    "Next.js",
+    "Node.js",
+    "NX",
+    "PostgreSQL",
     "Python",
     "React",
+    "SQL",
+    "Tailwind",
     "Typescript"
  ]
   
 certifications: ["AWS Cloud Practitioner", "AWS Solutions Architect"]
-hobbies: ["Socializing", "Gym"]
+hobbies: ["Strategy Games", "Gym", "DND", "Cuddling with my dog"]
 ```
   
 
